@@ -1,3 +1,3 @@
 # xp-disabled-state
 
-See the [`documentation page`](http://expandjs.com/elements/xp-disabled-state) for more information.
+This repository **is deprecated**. Use [`xp-focused-behavior`](https://github.com/expandjs/xp-focused-behavior) instead.
